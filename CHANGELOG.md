@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-01-04)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`a3301a2`](https://github.com/stdlib-js/stdlib/commit/a3301a2bde94e8c07888a1db589d189e9ecfc347) - **docs:** update related packages sections [(#4517)](https://github.com/stdlib-js/stdlib/pull/4517) _(by stdlib-bot)_
 -   [`511ae22`](https://github.com/stdlib-js/stdlib/commit/511ae22019022653f58464a98034b1821d979714) - **fix:** update folder name [(#2871)](https://github.com/stdlib-js/stdlib/pull/2871) _(by Gunj Joshi)_
 -   [`f4acf70`](https://github.com/stdlib-js/stdlib/commit/f4acf70af14b1fa8603858a6d6d0727b6c190e5a) - **feat:** add `constants/float32/max-safe-nth-fibonacci` [(#2836)](https://github.com/stdlib-js/stdlib/pull/2836) _(by Gunj Joshi)_
 
